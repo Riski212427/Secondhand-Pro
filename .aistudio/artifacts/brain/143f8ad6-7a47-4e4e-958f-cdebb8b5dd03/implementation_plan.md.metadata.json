@@ -1,0 +1,6 @@
+{
+  "summary": "Revisi rencana implementasi difokuskan khusus untuk smartphone second (bekas) mid-to-high end (iPhone & Android flagship). Menambahkan parameter kondisi fisik unit (Grade A+ Like New, Grade A, Grade B), Battery Health (BH), kelengkapan (Fullset vs Unit Only), dan garansi toko, terintegrasi penuh dengan simulasi cicilan, SPK sales, dan kasir POS.",
+  "updatedAt": "2026-10-17T07:25:53.778302249Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

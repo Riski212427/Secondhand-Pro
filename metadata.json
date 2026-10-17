@@ -1,0 +1,6 @@
+{
+  "name": "SecondPhone Pro — POS & Simulasi Kredit HP Bekas",
+  "description": "Sistem penjualan smartphone bekas mid-to-high end dengan variasi grading kondisi fisik, simulasi cicilan kredit bunga flat, manajemen SPK sales, dan kasir POS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
